@@ -1,9 +1,6 @@
 # TrialBench: AI-Ready Clinical Trial Datasets
 
-<a href='https://huyjj.github.io/Trialbench/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/pdf/2407.00631'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 
-
-<p align="center"><img src="./trial.pdf" alt="logo" width="810px" /></p>
 
 This repository contains code for training and testing benchmark models on Trialbench datasets. TrialBench comprises 23 AI-ready clinical trial datasets for 8 well-defined tasks: clinical trial duration forecasting, patient dropout rate prediction, serious adverse event, all-cause mortality rate prediction, trial approval outcome prediction, trial failure reason identification, eligibility criteria design, and drug dose finding. The provided scripts facilitate the evaluation of various machine learning algorithms, enabling researchers to assess their performance on different clinical trial phases and tasks. 
 
