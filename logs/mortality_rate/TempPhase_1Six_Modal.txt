@@ -1,0 +1,20 @@
+==================Test==================
+MAE      mean: 0.1908
+MSE      mean: 0.0985
+RMSE     mean: 0.3139
+Correlat mean: 0.7082
+==================Test==================
+MAE      mean: 0.0992
+MSE      mean: 0.0323
+RMSE     mean: 0.1799
+Correlat mean: 0.4932
+==================Test==================
+MAE      mean: 0.1050
+MSE      mean: 0.0361
+RMSE     mean: 0.1901
+Correlat mean: 0.4616
+==================Test==================
+MAE      mean: 0.0950
+MSE      mean: 0.0336
+RMSE     mean: 0.1833
+Correlat mean: 0.4732

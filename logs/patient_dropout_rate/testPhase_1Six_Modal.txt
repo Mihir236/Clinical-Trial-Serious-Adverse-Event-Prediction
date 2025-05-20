@@ -1,0 +1,5 @@
+==================Test==================
+MAE      mean: 0.1523
+MSE      mean: 0.0609
+RMSE     mean: 0.2469
+Correlat mean: 0.6335
